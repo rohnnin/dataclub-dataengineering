@@ -1,0 +1,3 @@
+*.duckdb
+gcp_service_account.json
+libpython3.13.a

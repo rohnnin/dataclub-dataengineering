@@ -1,0 +1,7 @@
+warehouse:
+  type: duckdb
+  path: taxi.duckdb
+
+paths:
+  assets: pipeline/assets
+  models: pipeline/assets/ingestion/models
