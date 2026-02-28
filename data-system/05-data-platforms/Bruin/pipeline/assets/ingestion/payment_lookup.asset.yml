@@ -1,0 +1,5 @@
+name: payment_lookup
+type: python
+path: pipeline/assets/ingestion/payment_lookup.py
+outputs:
+  - payment_lookup

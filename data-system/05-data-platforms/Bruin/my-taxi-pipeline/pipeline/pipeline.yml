@@ -1,0 +1,7 @@
+# pipeline.yml
+
+name: nyc_taxi_pipeline
+schedule: "0 6 * * *"   # runs daily at 6:00 AM
+start_date: "2023-01-01"
+
+# Optional: specify environment or other settings if needed
